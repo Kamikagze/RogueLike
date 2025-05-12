@@ -1,0 +1,7 @@
+#Fri Jan 03 12:01:44 MSK 2025
+base.0=E\:\\Projects\\RogueLike\\Folder\\build2\\launcher\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=E\:\\Projects\\RogueLike\\Folder\\build2\\launcher\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\2\\classes.dex
+path.0=0/classes.dex
+path.1=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

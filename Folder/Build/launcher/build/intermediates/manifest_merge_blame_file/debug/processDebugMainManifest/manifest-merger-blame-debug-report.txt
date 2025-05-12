@@ -1,0 +1,148 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.MyGame.RogueLike"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+10        android:targetSdkVersion="32" />
+11
+12    <supports-screens
+12-->E:\Projects\RogueLike\Folder\Build\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->E:\Projects\RogueLike\Folder\Build\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->E:\Projects\RogueLike\Folder\Build\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->E:\Projects\RogueLike\Folder\Build\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->E:\Projects\RogueLike\Folder\Build\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->E:\Projects\RogueLike\Folder\Build\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:8:5-54
+19-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:8:19-51
+20    <uses-feature
+20-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:9:5-11:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:10:9-55
+22        android:required="false" />
+22-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:11:9-33
+23    <uses-feature
+23-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:12:5-14:35
+24        android:name="android.software.home_screen"
+24-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:13:9-52
+25        android:required="true" />
+25-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:14:9-32
+26    <uses-feature
+26-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:15:5-17:36
+27        android:name="android.hardware.touchscreen"
+27-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:16:9-52
+28        android:required="false" />
+28-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:17:9-33
+29    <uses-feature
+29-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:18:5-20:36
+30        android:name="android.hardware.touchscreen.multitouch"
+30-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:19:9-63
+31        android:required="false" />
+31-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:20:9-33
+32    <uses-feature
+32-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:21:5-23:36
+33        android:name="android.hardware.touchscreen.multitouch.distinct"
+33-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:22:9-72
+34        android:required="false" />
+34-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:23:9-33
+35
+36    <application
+36-->E:\Projects\RogueLike\Folder\Build\launcher\src\main\AndroidManifest.xml:3:3-83
+37        android:debuggable="true"
+38        android:extractNativeLibs="true"
+39        android:icon="@mipmap/app_icon"
+39-->E:\Projects\RogueLike\Folder\Build\launcher\src\main\AndroidManifest.xml:3:49-80
+40        android:label="@string/app_name" >
+40-->E:\Projects\RogueLike\Folder\Build\launcher\src\main\AndroidManifest.xml:3:16-48
+41        <meta-data
+41-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:26:9-28:33
+42            android:name="unity.splash-mode"
+42-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:27:13-45
+43            android:value="0" />
+43-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:28:13-30
+44        <meta-data
+44-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:29:9-31:36
+45            android:name="unity.splash-enable"
+45-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:30:13-47
+46            android:value="True" />
+46-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:31:13-33
+47        <meta-data
+47-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:32:9-34:36
+48            android:name="unity.launch-fullscreen"
+48-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:33:13-51
+49            android:value="True" />
+49-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:34:13-33
+50        <meta-data
+50-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:35:9-37:36
+51            android:name="unity.render-outside-safearea"
+51-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:36:13-57
+52            android:value="True" />
+52-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:37:13-33
+53        <meta-data
+53-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:38:9-40:50
+54            android:name="notch.config"
+54-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:39:13-40
+55            android:value="portrait|landscape" />
+55-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:40:13-47
+56        <meta-data
+56-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:41:9-43:36
+57            android:name="unity.auto-report-fully-drawn"
+57-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:42:13-57
+58            android:value="true" />
+58-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:43:13-33
+59
+60        <activity
+60-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:45:9-66:20
+61            android:name="com.unity3d.player.UnityPlayerActivity"
+61-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:46:13-66
+62            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+62-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:47:13-194
+63            android:exported="true"
+63-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:48:13-36
+64            android:hardwareAccelerated="false"
+64-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:49:13-48
+65            android:launchMode="singleTask"
+65-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:50:13-44
+66            android:resizeableActivity="false"
+66-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:51:13-47
+67            android:screenOrientation="portrait"
+67-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:52:13-49
+68            android:theme="@style/UnityThemeSelector" >
+68-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:53:13-54
+69            <intent-filter>
+69-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:54:13-58:29
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:55:17-77
+70-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:55:27-74
+71
+72                <action android:name="android.intent.action.MAIN" />
+72-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:57:17-69
+72-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:57:25-66
+73            </intent-filter>
+74
+75            <meta-data
+75-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:60:13-62:40
+76                android:name="unityplayer.UnityActivity"
+76-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:61:17-57
+77                android:value="true" />
+77-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:62:17-37
+78            <meta-data
+78-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:63:13-65:40
+79                android:name="notch_support"
+79-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:64:17-45
+80                android:value="true" />
+80-->[:unityLibrary] E:\Projects\RogueLike\Folder\Build\unityLibrary\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:65:17-37
+81        </activity>
+82    </application>
+83
+84</manifest>

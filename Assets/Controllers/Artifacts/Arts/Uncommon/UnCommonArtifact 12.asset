@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51f86a33d88ffa442b838bb76af36845, type: 3}
+  m_Name: UnCommonArtifact 12
+  m_EditorClassIdentifier: 
+  artifactName: "\u0411\u0430\u0433\u0440\u043E\u0432\u044B\u0439 \u043A\u0440\u0438\u0441\u0442\u0430\u043B"
+  comparedAbility: 
+  multipleArtifact: 1
+  rarity: 1
+  aspectOfUpgrade: 4
+  aspectsOfUpgrade: 0000000002000000
+  artifactImage: {fileID: -1816839206, guid: 02f7d1cfae648f34a84863a9c48cb152, type: 3}
+  abilityKeys: 0c000000
+  damageUpgrade: 0
+  countUpgrade: 0
+  radiusUpgrade: 0
+  cooldownUpgrade: 15
+  durationUpgrade: 0
+  special: 0
+  maxHealth: 0
+  regeneration: 0
+  heel: 0
+  lifes: 0
+  armor: -15
+  speed: 0
+  exp: 0
+  radius: 0
+  cooldown: 0
+  damage: 0
+  freezeDuration: 0
+  health: 0
+  eXPAfterDeath: 0
+  bonusDamage: 0
+  description: "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+    \u0447\u0430\u0441\u0442\u043E\u0442\u0443 \u0441\u0440\u0430\u0431\u0430\u0442\u044B\u0432\u0430\u043D\u0438\u044F 
+    \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0438  <color=orange>
+    Laser</color> \u043D\u0430 <color=green>15%</color>,  \u043D\u043E \u0443\u043C\u0435\u043D\u044C\u0448\u0430\u0435\u0442
+    \u0441\u043E\u043F\u0440\u043E\u0442\u0438\u0432\u043B\u0435\u043D\u0438\u0435
+    \u0443\u0440\u043E\u043D\u0443 \u043D\u0430  <color=red> 15%</color>"

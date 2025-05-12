@@ -1,0 +1,8 @@
+com.MyGame.RogueLike.launcher-pngs-0 E:\Projects\RogueLike\Folder\build4\launcher\build\generated\res\pngs\debug
+com.MyGame.RogueLike.launcher-resValues-1 E:\Projects\RogueLike\Folder\build4\launcher\build\generated\res\resValues\debug
+com.MyGame.RogueLike.launcher-mergeDebugResources-2 E:\Projects\RogueLike\Folder\build4\launcher\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.MyGame.RogueLike.launcher-mergeDebugResources-3 E:\Projects\RogueLike\Folder\build4\launcher\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.MyGame.RogueLike.launcher-debug-4 E:\Projects\RogueLike\Folder\build4\launcher\build\intermediates\merged_res\debug\mergeDebugResources
+com.MyGame.RogueLike.launcher-debug-5 E:\Projects\RogueLike\Folder\build4\launcher\src\debug\res
+com.MyGame.RogueLike.launcher-main-6 E:\Projects\RogueLike\Folder\build4\launcher\src\main\res
+com.MyGame.RogueLike.launcher-debug-7 E:\Projects\RogueLike\Folder\build4\unityLibrary\build\intermediates\packaged_res\debug\packageDebugResources

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b7507e79ef1e1f4c878e48570c1d3ac, type: 3}
+  m_Name: FireBall 2
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 7acaf45f980f4ab418c0590886096c81, type: 3}
+  note: "<color=orange>\u0423\u0440\u043E\u043D</color> \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044F
+    \u043D\u0430 <color=green>40%</color>"
+  ID: 1
+  fireBallName: Fireball LVL 3
+  fireBallDamage: 18.2
+  fireBallFireRate: 3
+  fireBallRadius: 1

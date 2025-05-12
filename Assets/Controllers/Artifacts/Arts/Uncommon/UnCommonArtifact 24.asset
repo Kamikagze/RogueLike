@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51f86a33d88ffa442b838bb76af36845, type: 3}
+  m_Name: UnCommonArtifact 24
+  m_EditorClassIdentifier: 
+  artifactName: "\u041F\u0435\u0447\u0430\u0442\u044C \u043C\u0430\u0433\u0430"
+  comparedAbility: 
+  multipleArtifact: 1
+  rarity: 1
+  aspectOfUpgrade: 4
+  aspectsOfUpgrade: 02000000
+  artifactImage: {fileID: 148058626, guid: 02f7d1cfae648f34a84863a9c48cb152, type: 3}
+  abilityKeys: 14000000
+  damageUpgrade: 0
+  countUpgrade: 0
+  radiusUpgrade: 0
+  cooldownUpgrade: 0
+  durationUpgrade: 0
+  special: 0
+  maxHealth: 0
+  regeneration: 0
+  heel: 0
+  lifes: 0
+  armor: 0
+  speed: 0
+  exp: 0
+  radius: 0
+  cooldown: 0
+  damage: 7
+  freezeDuration: 0
+  health: 0
+  eXPAfterDeath: 0
+  bonusDamage: 0
+  description: "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442  
+    <color=orange>\u0443\u0440\u043E\u043D </color> \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0435\u0439 
+    \u043D\u0430 <color=green>7%</color>"

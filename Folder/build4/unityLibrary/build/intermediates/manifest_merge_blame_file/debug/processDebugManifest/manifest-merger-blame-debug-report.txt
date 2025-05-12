@@ -1,0 +1,126 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="22" />
+7
+8    <uses-feature android:glEsVersion="0x00030000" />
+8-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:3:3-52
+8-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:3:17-49
+9    <uses-feature
+9-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:4:3-91
+10        android:name="android.hardware.vulkan.version"
+10-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:4:17-63
+11        android:required="false" />
+11-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:4:64-88
+12    <uses-feature
+12-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:5:3-87
+13        android:name="android.software.home_screen"
+13-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:5:17-60
+14        android:required="true" />
+14-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:5:61-84
+15    <uses-feature
+15-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:6:3-88
+16        android:name="android.hardware.touchscreen"
+16-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:6:17-60
+17        android:required="false" />
+17-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:6:61-85
+18    <uses-feature
+18-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:7:3-99
+19        android:name="android.hardware.touchscreen.multitouch"
+19-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:7:17-71
+20        android:required="false" />
+20-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:7:72-96
+21    <uses-feature
+21-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:8:3-108
+22        android:name="android.hardware.touchscreen.multitouch.distinct"
+22-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:8:17-80
+23        android:required="false" />
+23-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:8:81-105
+24
+25    <application android:extractNativeLibs="true" >
+25-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:9:3-24:17
+25-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+26        <meta-data
+26-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:10:5-69
+27            android:name="unity.splash-mode"
+27-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+28            android:value="0" />
+28-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:10:49-66
+29        <meta-data
+29-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:11:5-74
+30            android:name="unity.splash-enable"
+30-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:11:16-50
+31            android:value="True" />
+31-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:11:51-71
+32        <meta-data
+32-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:12:5-78
+33            android:name="unity.launch-fullscreen"
+33-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:12:16-54
+34            android:value="True" />
+34-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:12:55-75
+35        <meta-data
+35-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:13:5-84
+36            android:name="unity.render-outside-safearea"
+36-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:13:16-60
+37            android:value="True" />
+37-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:13:61-81
+38        <meta-data
+38-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:14:5-81
+39            android:name="notch.config"
+39-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:14:16-43
+40            android:value="portrait|landscape" />
+40-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:14:44-78
+41        <meta-data
+41-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+42            android:name="unity.auto-report-fully-drawn"
+42-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:15:16-60
+43            android:value="true" />
+43-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:15:61-81
+44
+45        <activity
+45-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:16:5-23:16
+46            android:name="com.unity3d.player.UnityPlayerActivity"
+46-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:16:15-68
+47            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+47-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:16:180-361
+48            android:exported="true"
+48-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:16:433-456
+49            android:hardwareAccelerated="false"
+49-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:16:397-432
+50            android:launchMode="singleTask"
+50-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:16:148-179
+51            android:resizeableActivity="false"
+51-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:16:362-396
+52            android:screenOrientation="portrait"
+52-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:16:111-147
+53            android:theme="@style/UnityThemeSelector" >
+53-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:16:69-110
+54            <intent-filter>
+54-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:17:7-20:23
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:18:9-69
+55-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:18:19-66
+56
+57                <action android:name="android.intent.action.MAIN" />
+57-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:19:9-61
+57-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:19:17-58
+58            </intent-filter>
+59
+60            <meta-data
+60-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:21:7-82
+61                android:name="unityplayer.UnityActivity"
+61-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:21:18-58
+62                android:value="true" />
+62-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:21:59-79
+63            <meta-data
+63-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:22:7-70
+64                android:name="notch_support"
+64-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:22:18-46
+65                android:value="true" />
+65-->E:\Projects\RogueLike\Folder\build4\unityLibrary\src\main\AndroidManifest.xml:22:47-67
+66        </activity>
+67    </application>
+68
+69</manifest>

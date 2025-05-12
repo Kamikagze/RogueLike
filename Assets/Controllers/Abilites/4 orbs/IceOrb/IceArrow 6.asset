@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841f0aaedfff40148b45581d8b8c0b40, type: 3}
+  m_Name: IceArrow 6
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 8e6f19c3d2125b54c94ae6ca7b9b472d, type: 3}
+  note: "<color=orange>\u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E
+    \u0434\u0443\u0445\u043E\u0432</color> \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044F
+    \u043D\u0430 <color=green> 1 </color>\n<color=orange>\u0423\u0440\u043E\u043D
+    \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044F
+    \u043D\u0430 <color=green>5%\n<color=orange>\u0421\u043A\u043E\u0440\u043E\u0441\u0442\u0440\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C
+    \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044F
+    \u043D\u0430 <color=green>15%</color>\n"
+  ID: 3
+  iceArrowName: IceOrb LVL7
+  iceArrowDamage: 33
+  iceArrowSpeed: 10
+  iceArrowFireRate: 0.75
+  iceArrowNumberOfShooters: 3
+  iceArrowColor: {r: 0, g: 0, b: 0, a: 0}

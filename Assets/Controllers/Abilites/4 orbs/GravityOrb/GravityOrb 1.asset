@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a04debfb0ef8dc4ebc0de91fd17b3d7, type: 3}
+  m_Name: GravityOrb 1
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: cd35d4ec57ad6d34ea23a510cf83fcc9, type: 3}
+  note: "<color=orange>\u0423\u0440\u043E\u043D</color> \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044F
+    \u043D\u0430 <color=green>40%</color>\n<color=orange>\u041F\u0435\u0440\u0435\u0437\u0430\u0440\u044F\u0434\u043A\u0430</color>
+    \u0443\u043C\u0435\u043D\u044C\u0448\u0430\u0435\u0442\u0441\u044F \u043D\u0430
+    <color=green>10%</color>\n\n"
+  ID: 2
+  gravityOrbName: Gravity Orb LVL 2
+  gravityOrbDamage: 21
+  gravityOrbCount: 0
+  gravityOrbCooldown: 9.9
+  gravityOrbRadius: 1.5

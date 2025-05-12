@@ -1,0 +1,4 @@
+com.MyGame.RogueLike.test.launcher-androidTest-0 E:\Projects\RogueLike\Folder\build4\launcher\build\generated\res\resValues\androidTest\debug
+com.MyGame.RogueLike.test.launcher-mergeDebugAndroidTestResources-1 E:\Projects\RogueLike\Folder\build4\launcher\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.MyGame.RogueLike.test.launcher-mergeDebugAndroidTestResources-2 E:\Projects\RogueLike\Folder\build4\launcher\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.MyGame.RogueLike.test.launcher-debugAndroidTest-3 E:\Projects\RogueLike\Folder\build4\launcher\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

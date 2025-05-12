@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d08a9ba2761e87b429cf2c693bb78dd9, type: 3}
+  m_Name: EXPStatsImprove 1
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 3658ac55ab4c28f46bedd1ed44ea1501, type: 3}
+  note: "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442 <color=orange>
+    \u041F\u043E\u043B\u0443\u0447\u0430\u0435\u043C\u0443\u044E \u043C\u0430\u043D\u0443
+    </color> \u043D\u0430 <color=green>7%</color>"
+  ID: 24
+  expName: EXP LVL2
+  expImprove: 7

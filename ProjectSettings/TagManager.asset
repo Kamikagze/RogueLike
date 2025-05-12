@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Memory
+  - EXP
+  - Enemy
+  - Abil
+  - DamageDealer
+  - Flash
+  - StoneWalk
+  - WanderingFlash
+  - FreezingField
+  - Meteor
+  - IceArrow
+  - MagicBolt
+  - LavaField
+  - FireBall
+  - LightningOrb
+  - GravityOrb
+  - GravityExplosion
+  - Orbital
+  - Laser
+  - StonePicke
+  - FireBreath
+  - HP
+  - PreDeathTag
+  - Cataclysm
+  - Eruption
+  - WindSlash
+  - Bullet
+  - Artifact
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Abilities
+  - OnGroundElements
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2477897223
+    locked: 0
+  - name: OnGroundElements
+    uniqueID: 3623289609
+    locked: 0
+  - name: Enemies
+    uniqueID: 1078874615
+    locked: 0
+  - name: Abilities
+    uniqueID: 313793589
+    locked: 0
+  - name: Player
+    uniqueID: 3376094199
+    locked: 0
+  - name: UI
+    uniqueID: 3482599299
+    locked: 0

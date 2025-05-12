@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51f86a33d88ffa442b838bb76af36845, type: 3}
+  m_Name: Legendary 2
+  m_EditorClassIdentifier: 
+  artifactName: "\u0421\u0430\u043F\u043E\u0433\u0438 \u043F\u0435\u0440\u0432\u043E\u0439
+    \u0434\u0440\u0438\u0430\u0434\u044B"
+  comparedAbility: 
+  multipleArtifact: 1
+  rarity: 3
+  aspectOfUpgrade: 2
+  aspectsOfUpgrade: 0100000002000000
+  artifactImage: {fileID: 1768169901, guid: 12c3aad008bfe144782c69b0cac52999, type: 3}
+  abilityKeys: 
+  damageUpgrade: 0
+  countUpgrade: 0
+  radiusUpgrade: 0
+  cooldownUpgrade: 0
+  durationUpgrade: 0
+  special: 0
+  maxHealth: 0
+  regeneration: 15
+  heel: -10000
+  lifes: 0
+  armor: 0
+  speed: 15
+  exp: 0
+  radius: 0
+  cooldown: 0
+  damage: 0
+  freezeDuration: 0
+  health: 0
+  eXPAfterDeath: 0
+  bonusDamage: 0
+  description: "\u041F\u043E\u0432\u044B\u0448\u0430\u0435\u0442:\n <color=orange>
+    \u0440\u0435\u0433\u0435\u043D\u0435\u0440\u0430\u0446\u0438\u044E</color> \u043D\u0430
+    <color=green>15</color> \u0432 \u0441\u0435\u043A\u0443\u043D\u0434\u0443\n <color=orange>
+    \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u044C \u043F\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043D\u0438\u044F
+    </color> \u043D\u0430 <color=green>15%</color>\n<color=red>\u0412\u044B \u0431\u043E\u043B\u044C\u0448\u0435
+    \u043D\u0435 \u0432\u043E\u0441\u0441\u0442\u0430\u043D\u0430\u0432\u043B\u0438\u0432\u0430\u0435\u0442\u0435
+    \u0437\u0434\u043E\u0440\u043E\u0432\u044C\u0435 \u043E\u0442 \u0441\u0435\u0440\u0434\u0435\u0446</color>\n"
