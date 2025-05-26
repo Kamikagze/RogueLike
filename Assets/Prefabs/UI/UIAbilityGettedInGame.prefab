@@ -87,7 +87,7 @@ GameObject:
   - component: {fileID: 131105358996246234}
   - component: {fileID: 2944846773535513394}
   m_Layer: 5
-  m_Name: GettedAbillOrArt
+  m_Name: UIAbilityGettedInGame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -298,7 +298,7 @@ GameObject:
   - component: {fileID: 2909942244568823056}
   - component: {fileID: 6405960357279600751}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: UIPlateForAbilitiy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
